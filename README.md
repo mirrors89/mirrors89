@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Keeseung's github stats](https://github-readme-stats.vercel.app/api?username=mirrors89&&count_private=true&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirrors89&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirrors89&layout=compact&hide=css,html)
 
 <!--
 **mirrors89/mirrors89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
